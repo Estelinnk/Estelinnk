@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Estelink</h1>
 <h3 align="center">A developper from Switzerland</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7lele" alt="7lele" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estelinnk" alt="Estelink" /></a> </p>
 
 - 📖 I’m currently working on [Fivem server](https://discord.gg/vulturerp)
 
@@ -17,9 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/7lele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="7lele" height="30" width="40" /></a>
-<a href="https://codesandbox.com/7lele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="7lele" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/rnM924ka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rnM924ka" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
