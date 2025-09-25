@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Estelink</h1>
 <h3 align="center">A passionate developer from Switzerland</h3>
 
-- 🔭 I’m currently working at [Swisscom](https://www.swisscom.ch/)
-
+- 🔭 I’m currently working at <a target="_blank" href="https://www.swisscom.ch/">Swisscom</a>
+[Swisscom](https://www.swisscom.ch/)
 - 🌱 I’m currently learning **LUA**
 
 - 💬 Ask me about **LUA**
