@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Swisscom](https://www.swisscom.ch/)
 
-- 🌱 I’m currently learning **LUA**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **LUA**
 
