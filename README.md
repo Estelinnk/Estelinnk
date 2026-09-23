@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://codepen.io/estelink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="estelink" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/esteban-bugna-4b0a9b27b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esteban bugna" height="30" width="40" /></a>
-<a href="https://instagram.com/esteb_bubu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esteb_bubu" height="30" width="40" /></a>
+<a href="https://instagram.com/estebanbugna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esteb_bubu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/estelink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="estelink" height="30" width="40" /></a>
 <a href="https://discord.gg/jQ945gvSqX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jQ945gvSqX" height="30" width="40" /></a>
 </p>
